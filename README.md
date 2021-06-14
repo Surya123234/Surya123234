@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surya!
 - 👀 I’m interested in all things relating to software engineering!
-- 🌱 I’m currently learning web development (specifically, Django)
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: Find me on linkedin @ "Surya Sendhilraj" and let's connect!
 
 <!---
